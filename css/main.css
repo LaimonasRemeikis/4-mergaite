@@ -46,7 +46,7 @@ main{
        font-size: 80px;
        margin: 0%;
  }
- p {
+ div > p {
        display: inline-block;
        font-size: 30px;
  }
